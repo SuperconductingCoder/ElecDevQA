@@ -1,4 +1,4 @@
-# ElecDevQA
+# ElecDevQA Dataset
 The ElecDevQA dataset is a valuable, ground-truth resource for question-answering tasks within the electronic device domain. Each question-and-answer pair was curated using a hybrid Retrieval-Augmented Generation (RAG) approach that combines information from a structured knowledge graph (derived from IEEE abstracts) with relevant content from research articles and web pages. This methodology ensures the dataset's answers are not only accurate but also rich in context, as they are grounded in multiple credible sources. Consequently, ElecDevQA serves as an essential benchmark for evaluating the domain-specific knowledge of AI models and for fine-tuning Large Language Models (LLMs) to provide more sophisticated and reliable answers to specialized queries.
 ## Question types
 The questions within the ElecDevQA dataset are categorized into six distinct types, based on the specific information they are designed to query:
